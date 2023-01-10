@@ -1,0 +1,30 @@
+frames: 1000
+speed: 1000
+elements: 2
+
+Circle
+r: 25
+x: 150
+y: 25
+fillColor: 15, 255, 0
+strokeColor: 0, 0, 255
+effect
+Show
+start: 10
+effect
+Hide
+start: 120
+
+Rect
+length: 100
+width: 55
+x: 75
+y: 100
+border: 5
+effect
+Show
+start: 15
+Jump
+start: 50
+x: 30
+y: 30
